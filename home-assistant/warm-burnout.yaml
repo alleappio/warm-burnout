@@ -77,12 +77,37 @@ Warm Burnout:
       app-header-text-color: "#bfbdb6"
       app-header-background-color: "#14120f"
 
-      # ── Switches ──
+      # ── Semantic tokens (HA 2026.5+ webawesome components: checkbox, radio, button, links) ──
+      ha-color-fill-primary-loud-resting: "#b8522e"
+      ha-color-fill-primary-loud-hover: "#8a3d22"
+      ha-color-fill-primary-loud-active: "#b8522e"
+      ha-color-fill-primary-normal-resting: "rgba(184, 82, 46, 0.15)"
+      ha-color-fill-primary-normal-hover: "rgba(184, 82, 46, 0.25)"
+      ha-color-fill-primary-normal-active: "rgba(184, 82, 46, 0.15)"
+      ha-color-fill-primary-quiet-resting: "rgba(184, 82, 46, 0.08)"
+      ha-color-fill-primary-quiet-hover: "rgba(184, 82, 46, 0.15)"
+      ha-color-border-primary-normal: "#b8522e"
+      ha-color-border-primary-loud: "#b8522e"
+      ha-color-text-link: "#b8522e"
+      ha-color-on-primary-loud: "#FAF6F0"
+      ha-color-on-primary-normal: "#bfbdb6"
+
+      # ── Switches (legacy, HA <= 2026.4) ──
       switch-checked-color: "#b8522e"
       switch-checked-button-color: "#b8522e"
       switch-checked-track-color: "rgba(184, 82, 46, 0.4)"
       switch-unchecked-button-color: "#ada69c"
       switch-unchecked-track-color: "rgba(180, 168, 156, 0.3)"
+
+      # ── Switches (HA 2026.5+ webawesome ha-switch) ──
+      ha-switch-background-color: "rgba(180, 168, 156, 0.3)"
+      ha-switch-thumb-background-color: "#ada69c"
+      ha-switch-border-color: "transparent"
+      ha-switch-thumb-border-color: "transparent"
+      ha-switch-checked-background-color: "#b8522e"
+      ha-switch-checked-thumb-background-color: "#FAF6F0"
+      ha-switch-checked-border-color: "transparent"
+      ha-switch-checked-thumb-border-color: "transparent"
 
       # ── Sliders ──
       slider-color: "#b8522e"
@@ -299,12 +324,37 @@ Warm Burnout:
       app-header-text-color: "#3a3630"
       app-header-background-color: "#EDE6DA"
 
-      # ── Switches ──
+      # ── Semantic tokens (HA 2026.5+ webawesome components: checkbox, radio, button, links) ──
+      ha-color-fill-primary-loud-resting: "#b8522e"
+      ha-color-fill-primary-loud-hover: "#8a3d22"
+      ha-color-fill-primary-loud-active: "#b8522e"
+      ha-color-fill-primary-normal-resting: "rgba(184, 82, 46, 0.15)"
+      ha-color-fill-primary-normal-hover: "rgba(184, 82, 46, 0.25)"
+      ha-color-fill-primary-normal-active: "rgba(184, 82, 46, 0.15)"
+      ha-color-fill-primary-quiet-resting: "rgba(184, 82, 46, 0.08)"
+      ha-color-fill-primary-quiet-hover: "rgba(184, 82, 46, 0.15)"
+      ha-color-border-primary-normal: "#b8522e"
+      ha-color-border-primary-loud: "#b8522e"
+      ha-color-text-link: "#b8522e"
+      ha-color-on-primary-loud: "#FAF6F0"
+      ha-color-on-primary-normal: "#3a3630"
+
+      # ── Switches (legacy, HA <= 2026.4) ──
       switch-checked-color: "#b8522e"
       switch-checked-button-color: "#b8522e"
       switch-checked-track-color: "rgba(184, 82, 46, 0.4)"
       switch-unchecked-button-color: "#5c5750"
       switch-unchecked-track-color: "rgba(92, 87, 80, 0.3)"
+
+      # ── Switches (HA 2026.5+ webawesome ha-switch) ──
+      ha-switch-background-color: "rgba(92, 87, 80, 0.3)"
+      ha-switch-thumb-background-color: "#5c5750"
+      ha-switch-border-color: "transparent"
+      ha-switch-thumb-border-color: "transparent"
+      ha-switch-checked-background-color: "#b8522e"
+      ha-switch-checked-thumb-background-color: "#FAF6F0"
+      ha-switch-checked-border-color: "transparent"
+      ha-switch-checked-thumb-border-color: "transparent"
 
       # ── Sliders ──
       slider-color: "#b8522e"
