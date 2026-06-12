@@ -39,7 +39,7 @@ async function main() {
   }
 
   await browser.close();
-  console.log("\nDone. 4 screenshots generated.");
+  console.log(`\nDone. ${PAGES.length} screenshots generated.`);
 }
 
 main().catch((err) => {

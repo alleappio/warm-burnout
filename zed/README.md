@@ -114,15 +114,26 @@ Then switch themes via `Cmd+Shift+P` and typing "theme" to select **Warm Burnout
 
 - [VS Code](https://marketplace.visualstudio.com/items?itemName=felip3fdl.warm-burnout)
 - [JetBrains](https://github.com/felipefdl/warm-burnout/tree/main/jetbrains) (IntelliJ, WebStorm, RustRover, etc.)
-- [Neovim](https://github.com/felipefdl/warm-burnout/tree/main/nvim)
-- [Xcode](https://github.com/felipefdl/warm-burnout/tree/main/xcode)
 - [Ghostty](https://github.com/felipefdl/warm-burnout/tree/main/ghostty)
+- [Neovim](https://github.com/felipefdl/warm-burnout/tree/main/nvim)
+- [Vim](https://github.com/felipefdl/warm-burnout/tree/main/vim)
+- [Helix](https://github.com/felipefdl/warm-burnout/tree/main/helix)
+- [Bat](https://github.com/felipefdl/warm-burnout/tree/main/bat)
+- [Xcode](https://github.com/felipefdl/warm-burnout/tree/main/xcode)
 - [iTerm2](https://github.com/felipefdl/warm-burnout/tree/main/iterm2)
 - [Windows Terminal](https://github.com/felipefdl/warm-burnout/tree/main/windows-terminal)
+- [Warp](https://github.com/felipefdl/warm-burnout/tree/main/warp)
+- [WezTerm](https://github.com/felipefdl/warm-burnout/tree/main/wezterm)
+- [Alacritty](https://github.com/felipefdl/warm-burnout/tree/main/alacritty)
 - [tmux](https://github.com/felipefdl/warm-burnout/tree/main/tmux)
+- [Zellij](https://github.com/felipefdl/warm-burnout/tree/main/zellij)
 - [Starship](https://github.com/felipefdl/warm-burnout/tree/main/starship)
 - [Zsh](https://github.com/felipefdl/warm-burnout/tree/main/zsh) (syntax highlighting + fzf)
+- [Home Assistant](https://github.com/felipefdl/warm-burnout/tree/main/home-assistant)
 - [eza](https://github.com/felipefdl/warm-burnout/tree/main/eza)
+- [Obsidian](https://github.com/felipefdl/warm-burnout/tree/main/obsidian)
+- [Emacs](https://github.com/felipefdl/warm-burnout/tree/main/emacs)
+- [OpenCode](https://github.com/felipefdl/warm-burnout/tree/main/opencode)
 
 ## License
 

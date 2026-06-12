@@ -1,4 +1,4 @@
-" Warm Burnout Dark -- clinically warm, emotionally cold
+" Warm Burnout Dark: clinically warm, emotionally cold
 " Background: #1a1510. All tokens >= 7.0:1 contrast (WCAG AAA).
 
 hi clear

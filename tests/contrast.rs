@@ -202,7 +202,7 @@ fn light_css_properties_aa() {
 fn assert_ratio(name: &str, fg: &str, bg: &str, expected: f64) {
   let cr = contrast_ratio(fg, bg);
   assert!(
-    (cr - expected).abs() < 0.15,
+    (cr - expected).abs() < 0.1,
     "{name}: expected {expected:.1}:1, got {cr:.2}:1 (fg={fg} bg={bg})"
   );
 }

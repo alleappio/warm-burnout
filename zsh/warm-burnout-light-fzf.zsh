@@ -1,4 +1,4 @@
-# Warm Burnout Light -- fzf color scheme
+# Warm Burnout Light: fzf color scheme
 # Source this file AFTER fzf initialization.
 # Requires a truecolor terminal.
 #

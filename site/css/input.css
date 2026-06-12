@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 /* ============================================================
-   Warm Burnout -- Tailwind v4 Theme
+   Warm Burnout: Tailwind v4 Theme
    All colors from AGENTS.md canonical palette
    ============================================================ */
 
@@ -63,6 +63,7 @@
   --color-func-light: #855700;
   --color-string-light: #4d5c1a;
   --color-type-light: #285464;
+  --color-operator-light: #8f4418;
   --color-number-light: #7e4060;
   --color-tag-light: #8e4632;
   --color-coral-light: #883850;

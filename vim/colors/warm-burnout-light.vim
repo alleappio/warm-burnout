@@ -1,4 +1,4 @@
-" Warm Burnout Light -- sepia cream, zero halation
+" Warm Burnout Light: sepia cream, zero halation
 " Background: #F5EDE0. All tokens >= 4.5:1 contrast (WCAG AA).
 
 hi clear
