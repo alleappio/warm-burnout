@@ -8,22 +8,22 @@ theme = {
         c = { bg = palette.bg, fg = palette.fg },
     },
     insert = {
-        a = { bg = palette.string, fg = palette.bg, gui = 'bold' },
+        a = { bg = palette.added, fg = palette.bg, gui = 'bold' },
         b = { bg = palette.bg_highlight, fg = palette.fg },
         c = { bg = palette.bg, fg = palette.fg },
     },
     visual = {
-        a = { bg = palette.func, fg = palette.bg, gui = 'bold' },
+        a = { bg = palette.keyword, fg = palette.bg, gui = 'bold' },
         b = { bg = palette.bg_highlight, fg = palette.fg },
         c = { bg = palette.bg, fg = palette.fg },
     },
     replace = {
-        a = { bg = palette.type, fg = palette.bg, gui = 'bold' },
+        a = { bg = palette.error, fg = palette.bg, gui = 'bold' },
         b = { bg = palette.bg_highlight, fg = palette.fg },
         c = { bg = palette.bg, fg = palette.fg },
     },
     command = {
-        a = { bg = palette.constant, fg = palette.bg, gui = 'bold' },
+        a = { bg = palette.cursor, fg = palette.bg, gui = 'bold' },
         b = { bg = palette.bg_highlight, fg = palette.fg },
         c = { bg = palette.bg, fg = palette.fg },
     },
